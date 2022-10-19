@@ -40,12 +40,12 @@ Currently A Computer Science Student
 <p align="left">
 <a href="https://github.com/Verifieddanny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://twitter.com/dannyclassi_c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.tiktok.com/@verifieddanny?lang=en" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/TikTok.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/TikTok.svg" /></a>
-<a href="https://www.sololearn.com/profile/19185871" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/Sololearn.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/Sololearn.svg" /></a>
-<a href="https://www.linkedin.com/in/daniel-nwachukwu-244080236/0" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/LinkedIn.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/LinkedIn.svg" /></a>
+<a href="https://www.tiktok.com/@verifieddanny?lang=en" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://www.rit.edu/sites/rit.edu/files/campaigns/umag/tiktok/tiktok-logo-header.png" />
+</a>
+<a href="https://www.sololearn.com/profile/19185871" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://play-lh.googleusercontent.com/DHpmEI1cO-w2FQe6QHmXh_QksGEzF2hYiTAsQcgcyWPb7MFRb3R9KP5tITbzZgD1sV31=w480-h960-rw" />
+</a>
+<a href="https://www.linkedin.com/in/daniel-nwachukwu-244080236/0" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" />
+</a>
 </p>
 
 ### Badges
