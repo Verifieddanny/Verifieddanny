@@ -1,16 +1,58 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Nwachukwu
+=======================================================================================================================================
 
-<!--
-**Verifieddanny/Verifieddanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FrontEnd Developer </>
+-----------------
 
-Here are some ideas to get you started:
+Currently A Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm from nigeria
+* 🧠  I'm learning Javascript GSAP
+* ⚡  I am the best version of me
+
+### Skills 
+
+
+<p align="left">
+<a href="https://www.learn-html.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="36" height="36" alt="C" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="36" height="36" alt="Dart" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="36" height="36" alt="Java" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="36" height="36" alt="Java" /></a>
+
+</p>
+### tools
+
+<p>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="36" height="36" alt="Kotlin" /></a>
+
+<a href="https://www.sublimetext.com/docs/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/225px-Sublime_Text_3_logo.png" width="36" height="36" alt="Kotlin" /></a>
+
+
+
+
+</p>
+
+### Socials
+
+<p align="left">
+<a href="https://github.com/Verifieddanny" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://twitter.com/dannyclassi_c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.tiktok.com/@verifieddanny?lang=en" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/TikTok.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/TikTok.svg" /></a>
+<a href="https://www.sololearn.com/profile/19185871" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/Sololearn.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/Sololearn.svg" /></a>
+<a href="https://www.linkedin.com/in/daniel-nwachukwu-244080236/0" target="_blank" rel="noreferrer"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/LinkedIn.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/LinkedIn.svg" /></a>
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/Verifieddanny"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Verifieddanny&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Verifieddanny"><img src="https://activity-graph.herokuapp.com/graph?username=Verifieddanny&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Verifieddanny" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verifieddanny&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
