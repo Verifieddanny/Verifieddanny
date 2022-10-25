@@ -6,7 +6,7 @@ FrontEnd Developer </>
 
 Currently A Computer Science Student
 
-* 🌍  I'm from nigeria
+* 🌍  I'm from Nigeria
 * 🧠  I'm learning Javascript GSAP
 * ⚡  I am the best version of me
 
