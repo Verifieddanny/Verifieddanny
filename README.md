@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FrontEnd Developer </>
 -----------------
 
-Currently A Computer Science Student
+
 
 * 🌍  I'm from Nigeria
 * 🧠  I'm learning Javascript GSAP
