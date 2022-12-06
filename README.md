@@ -9,7 +9,7 @@ FrontEnd Developer </>
 
 
 * 🌍  I'm from Nigeria
-* 🧠  I'm learning Javascript GSAP
+* 🧠  I'm learning Javascript 
 * ⚡  I am the best version of me
 
 ### Skills 
