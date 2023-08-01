@@ -9,7 +9,7 @@ FrontEnd Developer </>
 
 
 <!--* 🌍  I'm from Nigeria-->
-* 🧠  I'm learning Javascript 
+* 🧠  I'm also ready to learn  
 * ⚡  I am the best version of me
 
 ### Skills 
