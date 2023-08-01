@@ -8,7 +8,7 @@ FrontEnd Developer </>
 
 
 
-* 🌍  I'm from Nigeria
+<!--* 🌍  I'm from Nigeria-->
 * 🧠  I'm learning Javascript 
 * ⚡  I am the best version of me
 
