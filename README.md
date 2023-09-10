@@ -7,7 +7,7 @@
 
 
 <h3 align="center"> A Web3 FrontEnd Developer </h3>
------------------
+<p align="center">-----------------</p>
 
 - 🔭 I’m currently working on [Opulent DAO](https://www.opulentdao.org/)
 
