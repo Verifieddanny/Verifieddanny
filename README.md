@@ -54,6 +54,7 @@
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://www.sublimetext.com/docs/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/225px-Sublime_Text_3_logo.png" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://imgs.search.brave.com/8_P_0WSigf9SsXh_rMCRo1NdlJNAVM6SjtO6U9WJRSU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/8_P_0WSigf9SsXh_rMCRo1NdlJNAVM6SjtO6U9WJRSU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n" width="36" height="36" alt="NextJs" /></a>
+<a href="https://imgs.search.brave.com/BHPdXOpCY9VYzejIiVdMj2_BEhTWnVJQKsQr64YUFwQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtc29saWRpdHkt/aWNvbi02NjB4MTAy/NC11bmNuemQ2eC5w/bmc" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/BHPdXOpCY9VYzejIiVdMj2_BEhTWnVJQKsQr64YUFwQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtc29saWRpdHkt/aWNvbi02NjB4MTAy/NC11bmNuemQ2eC5w/bmc" width="36" height="36" alt="Solidity" /></a>
 </p>
 
 
