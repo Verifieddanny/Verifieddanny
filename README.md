@@ -53,7 +53,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://www.sublimetext.com/docs/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/225px-Sublime_Text_3_logo.png" width="36" height="36" alt="Kotlin" /></a>
-<a href="[https://www.sublimetext.com/docs/index.html](https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_nsrozhr9igl91.png)" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/225px-Sublime_Text_3_logo.png](https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_nsrozhr9igl91.png)" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://imgs.search.brave.com/8_P_0WSigf9SsXh_rMCRo1NdlJNAVM6SjtO6U9WJRSU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/8_P_0WSigf9SsXh_rMCRo1NdlJNAVM6SjtO6U9WJRSU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n" width="36" height="36" alt="NextJs" /></a>
 </p>
 
 
