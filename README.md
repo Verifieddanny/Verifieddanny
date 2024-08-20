@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Verifieddanny?tab=repositories](https://github.com/Verifieddanny?tab=repositories)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Verifieddanny](https://hashnode.com/@Verifieddanny)
+- 📝 I regularly write articles on [https://hashnode.com/@Dev-Danny](https://hashnode.com/@Dev-Danny)
 
 - 💬 Ask me about **react, gsap, javascript**
 
