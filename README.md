@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NextJS & Solidity** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-- 👯 I’m looking to collaborate on [Graso](https://graso-suiden.vercel.app)
+- 👯 Collaborating on [Graso](https://graso-suiden.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Verifieddanny?tab=repositories](https://github.com/Verifieddanny?tab=repositories)
 
