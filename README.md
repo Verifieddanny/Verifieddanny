@@ -9,17 +9,17 @@
 <h3 align="center"> A Web3 FrontEnd Developer and Smart Contract Developer </h3>
 <p align="center">-----------------</p>
 
-- 🔭 I’m currently working on [Opulent DAO](https://www.opulentdao.org/)
+- 🔭 I’m currently working on [Brij](https://brij-org.vercel.app)
 
 - 🌱 I’m currently learning **NextJS & Solidity** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-- 👯 I’m looking to collaborate on [Lensly](https://lensly.vercel.app/)
+- 👯 I’m looking to collaborate on [Graso](https://graso-suiden.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Verifieddanny?tab=repositories](https://github.com/Verifieddanny?tab=repositories)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Dev-Danny](https://hashnode.com/@Dev-Danny)
 
-- 💬 Ask me about **react, gsap, javascript**
+- 💬 Ask me about **react, gsap, javascript, typescript, nextjs**
 
 - 📫 How to reach me **dannyclassic56@gmail.com**
 
@@ -55,6 +55,7 @@
 <a href="https://www.sublimetext.com/docs/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/225px-Sublime_Text_3_logo.png" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://imgs.search.brave.com/8_P_0WSigf9SsXh_rMCRo1NdlJNAVM6SjtO6U9WJRSU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/8_P_0WSigf9SsXh_rMCRo1NdlJNAVM6SjtO6U9WJRSU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzNo/N3lpL3N0eWxlcy9j/b21tdW5pdHlJY29u/X25zcm96aHI5aWds/OTEucG5n" width="36" height="36" alt="NextJs" /></a>
 <a href="https://imgs.search.brave.com/BHPdXOpCY9VYzejIiVdMj2_BEhTWnVJQKsQr64YUFwQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtc29saWRpdHkt/aWNvbi02NjB4MTAy/NC11bmNuemQ2eC5w/bmc" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/BHPdXOpCY9VYzejIiVdMj2_BEhTWnVJQKsQr64YUFwQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtc29saWRpdHkt/aWNvbi02NjB4MTAy/NC11bmNuemQ2eC5w/bmc" width="36" height="36" alt="Solidity" /></a>
+<a href="https://cdn.prod.website-files.com/6425f546844727ce5fb9e5ab/65690e5e73e9e2a416e3502f_sui-mark.svg" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6425f546844727ce5fb9e5ab/65690e5e73e9e2a416e3502f_sui-mark.svg" width="36" height="36" alt="Sui Move" /></a>
 </p>
 
 
