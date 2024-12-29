@@ -83,6 +83,8 @@
 
 <a href="https://github.com/Verifieddanny"><img src="https://github-readme-activity-graph.vercel.app/graph?username=verifieddanny&theme=react-dark" alt="GitHub Commits Graph" /></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verifieddanny&show_icons=true&theme=ambient_gradient)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/verifieddanny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="verifieddanny" /></a></p><br><br>
