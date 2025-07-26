@@ -88,3 +88,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/verifieddanny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="verifieddanny" /></a></p><br><br>
+
+
+
+#### My Projects:
+<p align="center">
+<b>Already Pinned Down for you sire!</b></br>
+<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+</p>
+
