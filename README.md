@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Brij](https://brij-org.vercel.app)
 
-- 🌱 I’m currently learning **NextJS & Solidity** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+- 🌱 I’m currently learning **NextJS & Sui Move** ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 - 👯 Collaborating on [Graso](https://graso-suiden.vercel.app)
 
