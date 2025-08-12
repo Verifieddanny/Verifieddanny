@@ -8,6 +8,17 @@
 
 <h3 align="center"> A Web3 FrontEnd Developer and Smart Contract Developer </h3>
 <p align="center">-----------------</p>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=nice+to+meet+you+🎉;&center=true&size=30">
+  </a>
+</h1>
+
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 - 🔭 I’m currently working on [Brij](https://brij-org.vercel.app)
 
