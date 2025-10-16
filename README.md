@@ -1,4 +1,5 @@
-![Frame 1 (2)](https://user-images.githubusercontent.com/103733496/202864315-9bc7b8c9-7106-4f33-9b03-8f5d218eb2be.png)
+<!--Frame 1 (2)](https://user-images.githubusercontent.com/103733496/202864315-9bc7b8c9-7106-4f33-9b03-8f5d218eb2be.png)-->
+<img width="1500" height="500" alt="new cover" src="https://github.com/user-attachments/assets/6c560c24-34db-46d0-8a62-2cf7f587849c" />
 
 
 <h1 align="center">Hi, 👋 I'm DevDanny</h1> 
