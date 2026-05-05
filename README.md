@@ -14,7 +14,7 @@ Backend-heavy fullstack engineer building reliable systems with Node.js & TypeSc
 
 ### Tech I work with
 
-**Backend:** Node.js · Express · TypeScript · REST APIs · WebSockets · GraphQL · PostgreSQL · MongoDB · Redis  
+**Backend:** Node.js · Express · TypeScript · Go · REST APIs · WebSockets · GraphQL · PostgreSQL · MongoDB · Redis  
 **Frontend:** React · Next.js · ReactJs · Tailwind CSS · GSAP  
 **Web3:** Solidity · Move (Sui) · Cairo · Foundry · Hardhat  
 **DevOps:** Docker · GitHub Actions · CI/CD · Vercel  
