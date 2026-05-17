@@ -4,7 +4,7 @@
 
 Backend-heavy fullstack engineer building reliable systems with Node.js & TypeScript.
 
-5+ years shipping software — from rescuing a stalled government project (NCAA PMS) in under 24 hours, to contributing to 60+ open-source repos across multiple ecosystems. Focused on backend engineering, distributed systems, and infrastructure that scales.
+5+ years shipping software, from rescuing a stalled government project (NCAA PMS) in under 24 hours, to contributing to 60+ open-source repos across multiple ecosystems. Focused on backend engineering, distributed systems, and infrastructure that scales.
 
 ### What I'm working on
 
