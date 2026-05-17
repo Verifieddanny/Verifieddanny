@@ -25,7 +25,7 @@ Backend-heavy fullstack engineer building reliable systems with Node.js & TypeSc
 - 🏆 **Top 9 Winner** — Celo MiniPay Hackathon
 - 🛠️ Fixed a critical system blocker in <24hrs on the NCAA Project Management System
 - 🌍 60+ open-source contributions across Starknet, Sui, EVM & Stellar ecosystems (OnlyDust Fellow)
-- 🎓 B.Sc. Computer Science, University of Nigeria Nsukka — 4.62/5.00 CGPA
+- 🎓 B.Sc. Computer Science, University of Nigeria Nsukka — First Class Honours
 
 ### Find me
 
