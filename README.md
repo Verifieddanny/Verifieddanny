@@ -10,7 +10,7 @@ Backend-heavy fullstack engineer building reliable systems with Node.js & TypeSc
 
 - 🔧 Building production-grade backend services with Express, TypeScript, PostgreSQL & Redis
 - 📖 Studying system design fundamentals (data-intensive applications, caching, message queues)
-- ⚙️ Building a social platform API in Go (raw SQL, migrations, search indexing).)
+- ⚙️ Building a multi-tenant Email API service.
 
 ### Tech I work with
 
