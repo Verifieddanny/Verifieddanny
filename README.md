@@ -10,7 +10,7 @@ Backend-heavy fullstack engineer building reliable systems with Node.js & TypeSc
 
 - 🔧 Building production-grade backend services with Express, TypeScript, PostgreSQL & Redis
 - 📖 Studying system design fundamentals (data-intensive applications, caching, message queues)
-- ⚙️ Building (Clipreator)[https://github.com/Verifieddanny/clipreator-cli].
+- ⚙️ Building [Clipreator](https://github.com/Verifieddanny/clipreator-cli).
 
 ### Tech I work with
 
