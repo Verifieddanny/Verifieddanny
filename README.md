@@ -32,7 +32,7 @@ Backend-heavy fullstack engineer building reliable systems with Node.js & TypeSc
 [![X](https://img.shields.io/badge/-@dannyclassi__c-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/dannyclassi_c)
 [![LinkedIn](https://img.shields.io/badge/-devdanny0-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devdanny0)
 [![TikTok](https://img.shields.io/badge/-@verifieddanny-000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev.dannny)
-[![Email](https://img.shields.io/badge/-dannyclassic56@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dannyclassic56@gmail.com)
+[![Email](https://img.shields.io/badge/-danielnwachukwuchigozirim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielnwachukwuchigozirim@gmail.com)
 
 ---
 
